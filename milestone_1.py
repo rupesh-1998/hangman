@@ -1,8 +1,3 @@
-from tkinter import W
-
-from pyparsing import Word
-
-
 import random
 
 word_list = ['apple', 'banana', 'watermelon', 'orange', 'grapefruit']
